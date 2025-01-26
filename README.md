@@ -12,4 +12,5 @@
   >
     <h1 class="sm:text-3xl text-sm">Learn about the responsive design</h1>
   </body>
+  
 </html>
